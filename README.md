@@ -10,4 +10,4 @@ Here are my beautiful p5.js art works!
 
 [Rainbow Spectrum Circle](spectrum-circle/)
 
-[Mouse Follower](music-flower/)
+[Mouse Follower](mouse-follower/)
