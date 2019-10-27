@@ -11,8 +11,3 @@ Here are my beautiful p5.js art works!
 [Rainbow Spectrum Circle](spectrum-circle/)
 
 [Mouse Follower](music-flower/)
-
-[a](libraries/p5.min.js)
-
-<script src="/libraries/p5.min.js"></script>
-<script src="/libraries/p5.sound.js"></script>
